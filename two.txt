@@ -1,4 +1,2 @@
 This is the second text file.
 This is the first modify.
-This is the second  modify.
-This is the third  modify.
