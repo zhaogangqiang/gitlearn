@@ -1,9 +1,1 @@
-This is a test file.
-Test two.
-Test two first change.
-Dev2 test.
-Branch dev.
-test.
-Dev2 modify.
-Dev2 modify again and again.
-Dev3 modify.
+Debug success.
