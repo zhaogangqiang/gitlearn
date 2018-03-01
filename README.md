@@ -1,2 +1,2 @@
-# gitlearn
-demos for learning git.
+# CSS secrets
+Demos for CSS secrets!
